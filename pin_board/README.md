@@ -1,4 +1,4 @@
-# Pinboard
+# Pinboard Server with Spring Boot
 
 Workspace looking cluttered? Clear your desk with pinboard. Jot down ideas and notes quickly.
 
