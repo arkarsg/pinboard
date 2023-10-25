@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PinBoardApplication<pin_board>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "io.arkar.pin_board.PinBoardApplication",
+            "projectName": "pin_board",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
